@@ -1,0 +1,34 @@
+F:\visual studio\pharmacy management system\pharmacy management system\bin\Debug\pharmacy management system.exe.config
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form1.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Properties.Resources.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy management system.csproj.GenerateResource.Cache
+F:\visual studio\pharmacy management system\pharmacy management system\bin\Debug\pharmacy management system.exe
+F:\visual studio\pharmacy management system\pharmacy management system\bin\Debug\pharmacy management system.pdb
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy management system.exe
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy management system.pdb
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form2.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form3.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form4.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form7.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form8.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form10.resources
+F:\visual studio\pharmacy management system\pharmacy management system\bin\Debug\MySql.Data.xml
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy management system.csprojAssemblyReference.cache
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy management system.csproj.CoreCompileInputs.cache
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy management system.csproj.CopyComplete
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form14.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form15.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form16.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form17.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form18.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form20.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form11.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form12.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form13.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form5.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form6.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form19.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form9.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form21.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form24.resources
+F:\visual studio\pharmacy management system\pharmacy management system\obj\Debug\pharmacy_management_system.Form22.resources
